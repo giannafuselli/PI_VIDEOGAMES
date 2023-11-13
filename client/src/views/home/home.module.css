@@ -1,0 +1,21 @@
+.homeContenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+  
+  .divLoading{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  .loading{
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+  }
